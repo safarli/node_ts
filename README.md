@@ -10,8 +10,8 @@ E.g:
 ## Useful tables:
 
 | TEST NAME  | PASSED | FAILED | NOT TESTED |
-| ---------- | :---: | :---: | :-------: |
-| ExpressJS  | x      |        |            |
-| Filesystem |        | x      |            |
-| other1     | x      |        |            |
-| other2     |        |        | x          |
+| ---------- | :----: | :----: | :--------: |
+| ExpressJS  |   x    |        |            |
+| Filesystem |        |   x    |            |
+| other1     |   x    |        |            |
+| other2     |        |        |     x      |
