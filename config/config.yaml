@@ -1,0 +1,17 @@
+configs:
+  app:
+    name: BankingApp
+    host: localhost
+    ports:
+      main:
+        - 80
+        - 443
+      other:
+        - 3375
+        - 9971
+        - 9963
+
+  db:
+    name: MongoDB
+    url: "abc/eee/fff"
+    user: admin
