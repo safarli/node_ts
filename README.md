@@ -11,7 +11,7 @@ E.g:
 
 | TEST NAME  | PASSED | FAILED | NOT TESTED |
 | ---------- | :----: | :----: | :--------: |
-| ExpressJS  |   x    |        |            |
-| Filesystem |        |   x    |            |
-| other1     |   x    |        |            |
-| other2     |        |        |     x      |
+| ExpressJS  |   *    |        |            |
+| Filesystem |        |   *    |            |
+| other1     |   *    |        |            |
+| other2     |        |        |     *      |
